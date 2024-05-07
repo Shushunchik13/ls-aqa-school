@@ -5,5 +5,10 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println(1111);
         System.out.println(2222);
+        someMethod();
+    }
+
+    private static void someMethod() {
+        System.out.println("t-3 - done");
     }
 }
