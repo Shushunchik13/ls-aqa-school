@@ -10,6 +10,6 @@ public class Main {
     }
 
     private static void someMethod() {
-        System.out.println("t-3 is done");
+        System.out.println("t-3 - done");
     }
 }
