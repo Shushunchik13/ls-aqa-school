@@ -9,6 +9,6 @@ public class Main {
     }
 
     private static void someMethod() {
-        System.out.println("...");
+        System.out.println("...2");
     }
 }
