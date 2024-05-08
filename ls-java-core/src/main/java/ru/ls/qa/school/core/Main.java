@@ -2,13 +2,6 @@ package ru.ls.qa.school.core;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
-        System.out.println(1111);
-        System.out.println(2222);
-        someMethod();
-    }
-
-    private static void someMethod() {
-        System.out.println("t-3 - done");
+        System.out.println("Не забывайте после правок нажимать \"Re-request review\"");
     }
 }
